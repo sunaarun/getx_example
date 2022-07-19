@@ -1,6 +1,12 @@
 # getx_app
 
-A new Flutter project.
+A new Flutter project that uses **Getx** package to manage its **State**. 
+it is a simple **Counter** App demonstrates how manage the state effictively with the help of *Getx** package
+
+You can watch the episode on **Youtube** : https://www.youtube.com/watch?v=yv-8kZ0akLI&ab_channel=Sana%27aZahra
+
+![getxSMThumb](https://user-images.githubusercontent.com/36349126/179715939-4dd1862c-7a71-4ab7-83f7-f43fe107f805.png)
+
 
 ## Getting Started
 
