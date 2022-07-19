@@ -1,7 +1,7 @@
 # getx_app
 
 A new Flutter project that uses **Getx** package to manage its **State**. 
-it is a simple **Counter** App demonstrates how manage the state effictively with the help of *Getx** package
+it is a simple **Counter** App demonstrates how manage the state effictively with the help of **Getx** package
 
 You can watch the episode on **Youtube** : https://www.youtube.com/watch?v=yv-8kZ0akLI&ab_channel=Sana%27aZahra
 
